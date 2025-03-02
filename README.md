@@ -3,9 +3,13 @@
 ## Access
 The project can be accessed at: https://chess-opening-recommender.vercel.app/
 
+The username 'Hikaru` can be used if you don't have a chess.com username.
+
 ## Project Overview
 A web-based application for personalized chess opening recommendations based on a user's chess.com profile and game history.
 Built with modern web technologies for a responsive and user-friendly interface.
+
+The project currently works on Chess.com. It can be extended to Lichess which provides a more extensive API.
 
 ## Technical Stack
 - **Frontend**: Vite.js for development and bundling, Vanilla JavaScript for client-side logic, Chart.js for data visualization.
