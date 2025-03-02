@@ -1,7 +1,7 @@
 # Chess Opening Recommender
 
 ## Access
-The project can be accessed at: [Chess Opening Recommender](http://localhost:3000)
+The project can be accessed at: https://chess-opening-recommender.vercel.app/
 
 ## Project Overview
 A web-based application for personalized chess opening recommendations based on a user's chess.com profile and game history.
