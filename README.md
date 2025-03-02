@@ -44,5 +44,12 @@ Built with modern web technologies for a responsive and user-friendly interface.
 - Enhanced learning resources for users.
 - Caching mechanism for API responses to improve performance.
 
+
+![image](https://github.com/user-attachments/assets/390fdaf1-91d0-4226-b19f-b9a253578217)
+![image](https://github.com/user-attachments/assets/cca07fb9-90b8-4cd5-9d35-e5f0c88cf91a)
+
+
 ## License
 This project is licensed under the MIT License.
+
+
