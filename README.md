@@ -45,9 +45,8 @@ Built with modern web technologies for a responsive and user-friendly interface.
 - Caching mechanism for API responses to improve performance.
 
 
-![image](https://github.com/user-attachments/assets/390fdaf1-91d0-4226-b19f-b9a253578217)
-![image](https://github.com/user-attachments/assets/cca07fb9-90b8-4cd5-9d35-e5f0c88cf91a)
-
+![image](https://github.com/user-attachments/assets/f4caefeb-a389-4e99-affb-1455ef0f5247)
+![image](https://github.com/user-attachments/assets/89f3a850-f392-4ab6-905f-c32fc9d5db12)
 
 ## License
 This project is licensed under the MIT License.
